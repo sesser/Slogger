@@ -1,4 +1,4 @@
-#Sesser\Slogger\Slogger#
+#Sesser\Slogger#
 
 [![Build Status](https://secure.travis-ci.org/sesser/Slogger.png?branch=master)](http://travis-ci.org/sesser/Slogger)
 
