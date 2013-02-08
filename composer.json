@@ -1,0 +1,22 @@
+{
+	"name": "sesser/slogger",
+	"description": "A Simple logger library",
+	"keywords": [ "library", "log", "logging", "logger", "mongo", "memcache", "redis" ],
+	"license": "MIT",
+	"homepage": "https://github.com/sesser/Slogger",
+	"authors": [
+		{
+			"name": "Randy Sesser",
+			"email": "sesser@gmail.com",
+			"homepage": "http://randys.org"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"Sesser": "src/"
+		}
+	}
+}

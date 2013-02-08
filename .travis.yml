@@ -1,0 +1,11 @@
+## Travis CI Configuration
+language: php
+
+php:
+ - 5.3
+ - 5.4
+
+before_script:
+ - sh ./tests/travis-mongo-php-installer.sh
+
+script: phpunit
