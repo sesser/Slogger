@@ -7,5 +7,6 @@ php:
 
 before_script:
  - sh ./tests/travis-mongo-php-installer.sh
+ - composer install
 
 script: phpunit
