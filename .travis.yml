@@ -1,6 +1,6 @@
 ## Travis CI Configuration
 language: php
-
+services: mongodb
 php:
  - 5.3
  - 5.4
